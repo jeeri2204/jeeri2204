@@ -18,7 +18,7 @@ const jeeri = {
     code: ["Python", "Java"],
     askMeAbout: ["cloud", "cloud architecture", "vmware"],
     technologies: {
-        Infra/Services: ["AWS", "GCP", "VMware"],
+        InfraServices: ["AWS", "GCP", "VMware"],
         Automation: ["Cloud Formation", "Jenkins", "Docker🐳", "Kubernetes"],
         Databases: ["MySql", "DynamoDB", "AWS Aurora"]
     },
