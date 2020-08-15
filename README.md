@@ -13,10 +13,10 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const jeeri = {
     pronouns: "She" | "Her",
     code: ["Python", "Java"],
-    askMeAbout: ["cloud", "cloud architecture"],
+    askMeAbout: ["cloud", "cloud architecture", "vmware"],
     technologies: {
         Infra/Services: ["AWS", "GCP", "VMware"],
         Automation: ["Cloud Formation", "Jenkins", "Docker🐳", "Kubernetes"],
