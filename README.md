@@ -2,7 +2,6 @@
   <img src="https://github.com/jeeri2204/jeeri2204/blob/master/cc.gif">
 </p>
 <h2> Hi, I'm Jeeri! </h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>I am a Cloud Lover <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Working as a Member Of Technical Staff at <a href="https://www.vmware.com/in.html">VMware</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 
